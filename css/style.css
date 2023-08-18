@@ -10,6 +10,7 @@ header{
 body{
     font-family: 'Nunito Sans', sans-serif;
     background-color: #fafbfc;
+    background-image: linear-gradient(to right,rgb(255, 251, 251),rgb(255, 0, 221));
 }
 main{
     padding: 30px 50px;
@@ -42,7 +43,7 @@ font-weight: bold;
 transition: all ease 0.3s;
 }
 button:hover{
-    background-color: rgb(78, 22, 131);
+    background-color: rgb(41, 4, 78);
 
 }
 .content{

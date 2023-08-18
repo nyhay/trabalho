@@ -4,3 +4,5 @@
 2-criei o arquivo html  e nomeei de trabalho.html,preenchi tudo como indicava no video corretamente.
 
 3-depois criei o arquivo de css e nomeei de style.css,preenchi tudo como indicava o video também , então até ai estava tudo certo.
+
+4-depois foi a hora de preencher o arquivo js, no começo pensei q tinha feito tudo certo,mas quando fui testar o codigo , percebi que não estava funcionando , segui o conselho do professor e procurei procurei ate que encontrei o erro, era um erro na letra p de produto que ao inves de estar escrito com letra maiuscula estava escrito com letra minuscula.

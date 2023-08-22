@@ -7,7 +7,7 @@ class Produto{
     }
 
     adicionar() {
-        alert('Vamos adicionar um produto!');
+        alert('Item adicionado');
         // ...
     }
 
@@ -16,7 +16,7 @@ class Produto{
         // ..
 
 
-        alert('Item deletado!')
+        alert('Item deletado')
     }
 }
 

@@ -4,6 +4,14 @@
 
 [descrição](#descri%C3%A7%C3%A3o)
 
+[funcionalidades](#funcionalidades)
+
+[tecnologias utilizadas](#tecnologias-utilizadas)
+
+[fontes consultadas](#fontes-consultadas)
+
+[altores](#%EF%B8%8F-altores)
+
 
 
 

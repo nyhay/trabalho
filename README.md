@@ -28,8 +28,8 @@ o site funciona como uma lista de compras.
 ## 📄tecnologias utilizadas
 html css readme github vs code e google
 
-## fontes consultadas 
+## 🔧fontes consultadas 
 google
 
-## altores
+## ✒️ altores
 eu
